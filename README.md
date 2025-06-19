@@ -74,7 +74,4 @@ O modelo é capaz de:
 - Fornecer nível de confiança para cada predição
 - Lidar com diferentes formatos de imagem
 
-## Autores e Colaboradores
-- Lavínia Fahning: Desenvolvimento do modelo de Redes Convolucionais, Análise dos Dados, Documentação e README.md.
-- Jéssica Lima: Desenvolvimento do modelo de Redes Convolucionais e Documentação.
 
